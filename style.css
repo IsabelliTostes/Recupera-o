@@ -1,0 +1,34 @@
+/*classe formatando imagem filme*/
+.dory{
+    border-radius: 20px;
+}
+
+/*classe formatando div "conteudo"*/
+.conteudo1 {
+    background-color: blue;
+    width: 200px;
+    height:200px;
+    border: 2px solid rgb(111, 0, 255);
+    float: left;
+    margin: 50px;
+    display: block;
+}
+
+.conteudo2 {
+    background-color: blueviolet;
+    width: 200px;
+    height:200px;
+    border: 2px solid rgb(43, 255, 0) (111, 0, 255);
+    float: left;
+    margin: 50px;
+    display: block;
+}
+
+.conteudo3 {
+    width: 200px;
+    height:200px;
+    float: left;
+    margin: 50px;
+    background-image: url("assets/dory.jpg");
+    display: block;
+}
